@@ -1,0 +1,4 @@
+program.c(204): Warning! W131: No prototype found for function 'prekidPrikazTemperature'
+program.c(207): Warning! W131: No prototype found for function 'prekidPrikazDatuma'
+program.c(210): Warning! W131: No prototype found for function 'prekidPrikazMax_MinTemperatura'
+program.c(213): Warning! W131: No prototype found for function 'prekidPrikazRazlikeTemperature'
